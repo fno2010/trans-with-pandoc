@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+# 过滤出一份`en`版的文档
+
+./translate.hs en
